@@ -1,0 +1,271 @@
+{
+  "count": 238,
+  "next": "https://www.udemy.com/api-2.0/courses/1271412/reviews/?courseId=1271412&fields%5Bcourse_review%5D=%40default%2Cresponse%2Ccontent_html%2Ccreated_formatted_with_time_since&fields%5Bcourse_review_response%5D=%40min%2Cuser%2Ccontent_html%2Ccreated_formatted_with_time_since&fields%5Buser%5D=%40min%2Cimage_50x50%2Cinitials%2Cpublic_display_name%2Ctracking_id&is_text_review=1&ordering=course_review_score__rank%2C-created&page=2",
+  "previous": null,
+  "results": [
+    {
+      "_class": "course_review",
+      "id": 117582890,
+      "content": "Still another \"award winning\" course by Mr. Eviston that contains information and skills that should be in every artist's tool box. I have used all of these techniques and find them to be not only helpful, but also powerful evaluation techniques for those times when I am putting something I see on paper which I think is correct and then use one of the measuring tools to show me just how far off I have guessed. I have read some comments from students in other courses who do not want to be bothered with measuring, claiming it is too time consuming and not fun. My experience is just the opposite! With just a few practice sessions, I have easily understood the mechanics of the measuring strategies, and almost automatically reach for them when drawing almost anything. They only take a moment or two to use and adjust a drawing, and I find that I enjoy seeing the measured results which now look correct. I think that contour drawing is next in the sequence, and I know it will be exciting to study!",
+      "rating": 5.0,
+      "created": "2022-06-29T11:35:38-07:00",
+      "modified": "2022-07-13T10:50:01-07:00",
+      "user_modified": "2022-07-13T10:50:01-07:00",
+      "user": {
+        "_class": "user",
+        "title": "David Layne",
+        "name": "David",
+        "display_name": "David Layne",
+        "image_50x50": "https://img-b.udemycdn.com/user/50x50/648745_3e06_3.jpg",
+        "initials": "DL",
+        "tracking_id": "yGEiFpa8R5G7KViqX7US9w",
+        "public_display_name": "David L."
+      },
+      "response": null,
+      "content_html": "<p>Still another \"award winning\" course by Mr. Eviston that contains information and skills that should be in every artist's tool box. I have used all of these techniques and find them to be not only helpful, but also powerful evaluation techniques for those times when I am putting something I see on paper which I think is correct and then use one of the measuring tools to show me just how far off I have guessed. I have read some comments from students in other courses who do not want to be bothered with measuring, claiming it is too time consuming and not fun. My experience is just the opposite! With just a few practice sessions, I have easily understood the mechanics of the measuring strategies, and almost automatically reach for them when drawing almost anything. They only take a moment or two to use and adjust a drawing, and I find that I enjoy seeing the measured results which now look correct. I think that contour drawing is next in the sequence, and I know it will be exciting to study!</p>",
+      "created_formatted_with_time_since": "2 months ago"
+    },
+    {
+      "_class": "course_review",
+      "id": 116235102,
+      "content": "always learn something new from his courses, Bryant is highly skilled and a great instructor. wish more exercises to this course. not a biggy..",
+      "rating": 4.5,
+      "created": "2022-06-12T17:27:55-07:00",
+      "modified": "2022-06-14T16:09:29-07:00",
+      "user_modified": "2022-06-12T17:31:44-07:00",
+      "user": {
+        "_class": "user",
+        "title": "Rakesh Kapoor",
+        "name": "Rakesh",
+        "display_name": "Rakesh Kapoor",
+        "image_50x50": "https://img-b.udemycdn.com/user/50x50/anonymous_3.png",
+        "initials": "RK",
+        "tracking_id": "vlAaAkh2T1O8Y3S-vaOsbQ",
+        "public_display_name": "Rakesh K."
+      },
+      "response": null,
+      "content_html": "<p>always learn something new from his courses, Bryant is highly skilled and a great instructor. wish more exercises to this course. not a biggy..</p>",
+      "created_formatted_with_time_since": "2 months ago"
+    },
+    {
+      "_class": "course_review",
+      "id": 115694704,
+      "content": "I really wanted to learn the basics of drawing especially in regards to how \"the masters\" drew. This has definitely been a well crafted course. Thank you.",
+      "rating": 5.0,
+      "created": "2022-06-05T15:09:50-07:00",
+      "modified": "2022-06-06T16:12:50-07:00",
+      "user_modified": "2022-06-05T15:11:08-07:00",
+      "user": {
+        "_class": "user",
+        "title": "Natalie Sonnen",
+        "name": "Natalie",
+        "display_name": "Natalie Sonnen",
+        "image_50x50": "https://img-b.udemycdn.com/user/50x50/anonymous_3.png",
+        "initials": "NS",
+        "tracking_id": "UF4PWKkRROiuiTTZLnZE4w",
+        "public_display_name": "Natalie S."
+      },
+      "response": null,
+      "content_html": "<p>I really wanted to learn the basics of drawing especially in regards to how \"the masters\" drew. This has definitely been a well crafted course. Thank you.</p>",
+      "created_formatted_with_time_since": "2 months ago"
+    },
+    {
+      "_class": "course_review",
+      "id": 115627174,
+      "content": "Muito além das minhas expectativas, posso facilmente dizer que é um conteudo fundamental para artistas.\nCom esse curso pude sentir muita facilidade em fazer boas ilustrações, nem eu acredito no quão bom minhas ilustrações ficaram.\nRecomendo muito todos os cursos desse instrutor, com pouco tempo que tenho de estudo em ilustração ja consigo ter liberdade o suficiente para fazer o desenho que quero sem gargalo nenhum e ainda satisfeito com o resultado.",
+      "rating": 5.0,
+      "created": "2022-06-04T09:22:20-07:00",
+      "modified": "2022-06-05T16:06:52-07:00",
+      "user_modified": "2022-06-04T09:30:44-07:00",
+      "user": {
+        "_class": "user",
+        "title": "Gabrielcandido Candido",
+        "name": "Gabrielcandido",
+        "display_name": "Gabrielcandido Candido",
+        "image_50x50": "https://img-b.udemycdn.com/user/50x50/anonymous_3.png",
+        "initials": "GC",
+        "tracking_id": "wy2O2bvQSPKSITRjiOyAAQ",
+        "public_display_name": "Gabrielcandido C."
+      },
+      "response": null,
+      "content_html": "<p>Muito além das minhas expectativas, posso facilmente dizer que é um conteudo fundamental para artistas.<br>Com esse curso pude sentir muita facilidade em fazer boas ilustrações, nem eu acredito no quão bom minhas ilustrações ficaram.<br>Recomendo muito todos os cursos desse instrutor, com pouco tempo que tenho de estudo em ilustração ja consigo ter liberdade o suficiente para fazer o desenho que quero sem gargalo nenhum e ainda satisfeito com o resultado.</p>",
+      "created_formatted_with_time_since": "3 months ago"
+    },
+    {
+      "_class": "course_review",
+      "id": 112485104,
+      "content": "Once again learned so much from Brent. Comprehensive and well-paced introduction to using these measuring techniques.",
+      "rating": 5.0,
+      "created": "2022-04-23T13:19:46-07:00",
+      "modified": "2022-04-24T16:07:48-07:00",
+      "user_modified": "2022-04-23T13:21:04-07:00",
+      "user": {
+        "_class": "user",
+        "title": "Lmp",
+        "name": "Lmp",
+        "display_name": "Lmp",
+        "image_50x50": "https://img-b.udemycdn.com/user/50x50/anonymous_3.png",
+        "initials": "L",
+        "tracking_id": "UaAH8qyDQ_KVNsAVCgJzng",
+        "public_display_name": "Lmp"
+      },
+      "response": null,
+      "content_html": "<p>Once again learned so much from Brent. Comprehensive and well-paced introduction to using these measuring techniques.</p>",
+      "created_formatted_with_time_since": "4 months ago"
+    },
+    {
+      "_class": "course_review",
+      "id": 107356952,
+      "content": "Brent’s courses are always great, and this one was no exception! He explains everything in a very thorough way and gives the student plenty of assignments so they can improve their skills.",
+      "rating": 4.0,
+      "created": "2022-02-12T03:16:08-08:00",
+      "modified": "2022-02-13T15:07:13-08:00",
+      "user_modified": "2022-02-12T03:18:21-08:00",
+      "user": {
+        "_class": "user",
+        "title": "Bjarni Palsson",
+        "name": "Bjarni",
+        "display_name": "Bjarni Palsson",
+        "image_50x50": "https://img-b.udemycdn.com/user/50x50/anonymous_3.png",
+        "initials": "BP",
+        "tracking_id": "kP9-CN9YSOCBr-i99MrAZA",
+        "public_display_name": "Bjarni P."
+      },
+      "response": null,
+      "content_html": "<p>Brent’s courses are always great, and this one was no exception! He explains everything in a very thorough way and gives the student plenty of assignments so they can improve their skills.</p>",
+      "created_formatted_with_time_since": "6 months ago"
+    },
+    {
+      "_class": "course_review",
+      "id": 114099540,
+      "content": "Very clear instruction and easy to follow. Definitely made gains in my drawing",
+      "rating": 5.0,
+      "created": "2022-05-16T09:19:31-07:00",
+      "modified": "2022-05-17T16:10:43-07:00",
+      "user_modified": "2022-05-16T09:19:31-07:00",
+      "user": {
+        "_class": "user",
+        "title": "Dan Shofner",
+        "name": "Dan",
+        "display_name": "Dan Shofner",
+        "image_50x50": "https://img-b.udemycdn.com/user/50x50/anonymous_3.png",
+        "initials": "DS",
+        "tracking_id": "ni5HRonlTS67kF_EkpY3Eg",
+        "public_display_name": "Dan S."
+      },
+      "response": null,
+      "content_html": "<p>Very clear instruction and easy to follow. Definitely made gains in my drawing</p>",
+      "created_formatted_with_time_since": "3 months ago"
+    },
+    {
+      "_class": "course_review",
+      "id": 105687148,
+      "content": "This course was quick and easy to understand with very clear instructions. Thank you",
+      "rating": 5.0,
+      "created": "2022-01-22T14:45:56-08:00",
+      "modified": "2022-01-23T15:05:19-08:00",
+      "user_modified": "2022-01-22T14:45:56-08:00",
+      "user": {
+        "_class": "user",
+        "title": "Kimberly Hulshof",
+        "name": "Kimberly",
+        "display_name": "Kimberly Hulshof",
+        "image_50x50": "https://img-b.udemycdn.com/user/50x50/anonymous_3.png",
+        "initials": "KH",
+        "tracking_id": "gj9KBZCeSUm-Kncyd89j-g",
+        "public_display_name": "Kimberly H."
+      },
+      "response": null,
+      "content_html": "<p>This course was quick and easy to understand with very clear instructions. Thank you</p>",
+      "created_formatted_with_time_since": "7 months ago"
+    },
+    {
+      "_class": "course_review",
+      "id": 110188262,
+      "content": "Excellent clear helpful and thorough!",
+      "rating": 5.0,
+      "created": "2022-03-22T12:20:30-07:00",
+      "modified": "2022-03-23T16:07:05-07:00",
+      "user_modified": "2022-03-22T12:21:09-07:00",
+      "user": {
+        "_class": "user",
+        "title": "Martha Roediger",
+        "name": "Martha",
+        "display_name": "Martha Roediger",
+        "image_50x50": "https://img-b.udemycdn.com/user/50x50/anonymous_3.png",
+        "initials": "MR",
+        "tracking_id": "ODe8SwndRYyrEbNLBp26XA",
+        "public_display_name": "Martha R."
+      },
+      "response": null,
+      "content_html": "<p>Excellent clear helpful and thorough!</p>",
+      "created_formatted_with_time_since": "5 months ago"
+    },
+    {
+      "_class": "course_review",
+      "id": 103509056,
+      "content": "I loved the structure he brought to the course. I have heard a lot of this before but he pulled it all together for me. I have a much better sense of direction to set for my practicing now.",
+      "rating": 5.0,
+      "created": "2021-12-28T17:47:26-08:00",
+      "modified": "2021-12-29T15:04:26-08:00",
+      "user_modified": "2021-12-28T17:49:36-08:00",
+      "user": {
+        "_class": "user",
+        "title": "Clifford Amundsen",
+        "name": "Clifford",
+        "display_name": "Clifford Amundsen",
+        "image_50x50": "https://img-b.udemycdn.com/user/50x50/anonymous_3.png",
+        "initials": "CA",
+        "tracking_id": "_hmmEygsQZmRStRkQctB6g",
+        "public_display_name": "Clifford A."
+      },
+      "response": null,
+      "content_html": "<p>I loved the structure he brought to the course. I have heard a lot of this before but he pulled it all together for me. I have a much better sense of direction to set for my practicing now.</p>",
+      "created_formatted_with_time_since": "8 months ago"
+    },
+    {
+      "_class": "course_review",
+      "id": 121067450,
+      "content": "Os cursos do Sr. Eviston estão melhorando radicalmente o meu desenho!",
+      "rating": 5.0,
+      "created": "2022-08-12T16:13:32-07:00",
+      "modified": "2022-08-13T16:10:32-07:00",
+      "user_modified": "2022-08-12T16:13:53-07:00",
+      "user": {
+        "_class": "user",
+        "title": "Patricia Degani",
+        "name": "Patricia",
+        "display_name": "Patricia Degani",
+        "image_50x50": "https://img-b.udemycdn.com/user/50x50/anonymous_3.png",
+        "initials": "PD",
+        "tracking_id": "MPSLXtn-Rp2y9m4Z8FxB7g",
+        "public_display_name": "Patricia D."
+      },
+      "response": null,
+      "content_html": "<p>Os cursos do Sr. Eviston estão melhorando radicalmente o meu desenho!</p>",
+      "created_formatted_with_time_since": "3 weeks ago"
+    },
+    {
+      "_class": "course_review",
+      "id": 103843744,
+      "content": "yea this was a good course i didn't know how to measure proply but now i can",
+      "rating": 5.0,
+      "created": "2022-01-02T08:28:35-08:00",
+      "modified": "2022-01-03T15:06:16-08:00",
+      "user_modified": "2022-01-02T08:29:07-08:00",
+      "user": {
+        "_class": "user",
+        "title": "Alex Sturge",
+        "name": "Alex",
+        "display_name": "Alex Sturge",
+        "image_50x50": "https://img-b.udemycdn.com/user/50x50/anonymous_3.png",
+        "initials": "AS",
+        "tracking_id": "a-H-g5PiRbm0HnXQ_-Q-ag",
+        "public_display_name": "Alex S."
+      },
+      "response": null,
+      "content_html": "<p>yea this was a good course i didn't know how to measure proply but now i can</p>",
+      "created_formatted_with_time_since": "8 months ago"
+    }
+  ]
+}

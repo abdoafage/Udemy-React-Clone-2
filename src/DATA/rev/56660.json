@@ -1,0 +1,271 @@
+{
+  "count": 50,
+  "next": "https://www.udemy.com/api-2.0/courses/56660/reviews/?courseId=56660&fields%5Bcourse_review%5D=%40default%2Cresponse%2Ccontent_html%2Ccreated_formatted_with_time_since&fields%5Bcourse_review_response%5D=%40min%2Cuser%2Ccontent_html%2Ccreated_formatted_with_time_since&fields%5Buser%5D=%40min%2Cimage_50x50%2Cinitials%2Cpublic_display_name%2Ctracking_id&is_text_review=1&ordering=course_review_score__rank%2C-created&page=2",
+  "previous": null,
+  "results": [
+    {
+      "_class": "course_review",
+      "id": 121759040,
+      "content": "GOOD",
+      "rating": 5.0,
+      "created": "2022-08-22T09:23:42-07:00",
+      "modified": "2022-08-23T16:13:13-07:00",
+      "user_modified": "2022-08-22T09:23:56-07:00",
+      "user": {
+        "_class": "user",
+        "title": "Anh Nguyen Tuan (FIS SRVHCM)",
+        "name": "Anh",
+        "display_name": "Anh Nguyen Tuan (FIS SRVHCM)",
+        "image_50x50": "https://img-c.udemycdn.com/user/50x50/anonymous_3.png",
+        "initials": "AN",
+        "tracking_id": "XZKAILJOS4iDYMLIVOhHKg",
+        "public_display_name": "Anh N."
+      },
+      "response": null,
+      "content_html": "<p>GOOD</p>",
+      "created_formatted_with_time_since": "a week ago"
+    },
+    {
+      "_class": "course_review",
+      "id": 120644026,
+      "content": "Very helpful for beginners.",
+      "rating": 5.0,
+      "created": "2022-08-07T18:38:46-07:00",
+      "modified": "2022-08-08T16:09:17-07:00",
+      "user_modified": "2022-08-07T20:54:02-07:00",
+      "user": {
+        "_class": "user",
+        "title": "Joshua Maru Tejada",
+        "name": "Joshua Maru",
+        "display_name": "Joshua Maru Tejada",
+        "image_50x50": "https://img-c.udemycdn.com/user/50x50/anonymous_3.png",
+        "initials": "JT",
+        "tracking_id": "jRHSi9FJQ-etUdFUIhiJOw",
+        "public_display_name": "Joshua Maru T."
+      },
+      "response": null,
+      "content_html": "<p>Very helpful for beginners.</p>",
+      "created_formatted_with_time_since": "3 weeks ago"
+    },
+    {
+      "_class": "course_review",
+      "id": 118137794,
+      "content": "Overall, I thought it was a pretty solid course! I manually typed out a lot of the practice problems which took me awhile. But at the same time thats how I learn best. I would be interested in learning more about stock type functions to use in the future for predicting stock prices and analysis.",
+      "rating": 3.0,
+      "created": "2022-07-06T11:36:21-07:00",
+      "modified": "2022-07-08T16:14:01-07:00",
+      "user_modified": "2022-07-06T11:37:45-07:00",
+      "user": {
+        "_class": "user",
+        "title": "Jacob Hanchett",
+        "name": "Jacob",
+        "display_name": "Jacob Hanchett",
+        "image_50x50": "https://img-c.udemycdn.com/user/50x50/anonymous_3.png",
+        "initials": "JH",
+        "tracking_id": "VmX4zeuBS1OSn40OoHBn9w",
+        "public_display_name": "Jacob H."
+      },
+      "response": null,
+      "content_html": "<p>Overall, I thought it was a pretty solid course! I manually typed out a lot of the practice problems which took me awhile. But at the same time thats how I learn best. I would be interested in learning more about stock type functions to use in the future for predicting stock prices and analysis.</p>",
+      "created_formatted_with_time_since": "a month ago"
+    },
+    {
+      "_class": "course_review",
+      "id": 114840280,
+      "content": "yes so far",
+      "rating": 4.5,
+      "created": "2022-05-25T06:31:59-07:00",
+      "modified": "2022-05-26T16:09:02-07:00",
+      "user_modified": "2022-05-25T10:59:34-07:00",
+      "user": {
+        "_class": "user",
+        "title": "Purchasing Assistants",
+        "name": "Purchasing",
+        "display_name": "Purchasing Assistants",
+        "image_50x50": "https://img-c.udemycdn.com/user/50x50/anonymous_3.png",
+        "initials": "PA",
+        "tracking_id": "Rsdl4twBSNekumYjBnIsyQ",
+        "public_display_name": "Purchasing A."
+      },
+      "response": null,
+      "content_html": "<p>yes so far</p>",
+      "created_formatted_with_time_since": "3 months ago"
+    },
+    {
+      "_class": "course_review",
+      "id": 104702208,
+      "content": "Clear, concise and well structured",
+      "rating": 5.0,
+      "created": "2022-01-11T04:02:47-08:00",
+      "modified": "2022-01-12T15:09:02-08:00",
+      "user_modified": "2022-01-11T04:03:10-08:00",
+      "user": {
+        "_class": "user",
+        "title": "Andrew Cosgrove",
+        "name": "Andrew",
+        "display_name": "Andrew Cosgrove",
+        "image_50x50": "https://img-c.udemycdn.com/user/50x50/anonymous_3.png",
+        "initials": "AC",
+        "tracking_id": "Y2c2WGMgTf60H15lsRDMYA",
+        "public_display_name": "Andrew C."
+      },
+      "response": null,
+      "content_html": "<p>Clear, concise and well structured</p>",
+      "created_formatted_with_time_since": "7 months ago"
+    },
+    {
+      "_class": "course_review",
+      "id": 616176,
+      "content": "Good advanced lessons clearly explained in detail which made it easy to follow. One critisism, not all example spreadsheets used by the tutor were available for download.",
+      "rating": 4.0,
+      "created": "2015-09-03T12:32:16-07:00",
+      "modified": "2015-09-03T19:32:16-07:00",
+      "user_modified": "2015-09-03T19:32:16-07:00",
+      "user": {
+        "_class": "user",
+        "title": "John Joyce",
+        "name": "John",
+        "display_name": "John Joyce",
+        "image_50x50": "https://img-c.udemycdn.com/user/50x50/anonymous_3.png",
+        "initials": "JJ",
+        "tracking_id": "WvdQwAw9TGahtxvRGLrqxg",
+        "public_display_name": "John J."
+      },
+      "response": null,
+      "content_html": "<p>Good advanced lessons clearly explained in detail which made it easy to follow. One critisism, not all example spreadsheets used by the tutor were available for download.</p>",
+      "created_formatted_with_time_since": "7 years ago"
+    },
+    {
+      "_class": "course_review",
+      "id": 109050438,
+      "content": "IT WAS GOOD",
+      "rating": 5.0,
+      "created": "2022-03-07T07:36:51-08:00",
+      "modified": "2022-03-08T15:04:10-08:00",
+      "user_modified": "2022-03-07T07:37:10-08:00",
+      "user": {
+        "_class": "user",
+        "title": "",
+        "name": "",
+        "display_name": "Rakesh Devasi",
+        "image_50x50": "https://img-c.udemycdn.com/user/50x50/anonymous_3.png",
+        "initials": "",
+        "tracking_id": "GFTwzmbeQ9Wz7aewd8Daow",
+        "public_display_name": "Udemy User"
+      },
+      "response": null,
+      "content_html": "<p>IT WAS GOOD</p>",
+      "created_formatted_with_time_since": "5 months ago"
+    },
+    {
+      "_class": "course_review",
+      "id": 112971488,
+      "content": "Excellent class!",
+      "rating": 5.0,
+      "created": "2022-04-30T06:04:58-07:00",
+      "modified": "2022-05-01T16:08:59-07:00",
+      "user_modified": "2022-04-30T06:21:58-07:00",
+      "user": {
+        "_class": "user",
+        "title": "Parvathy C.A",
+        "name": "Parvathy",
+        "display_name": "Parvathy C.A",
+        "image_50x50": "https://img-c.udemycdn.com/user/50x50/anonymous_3.png",
+        "initials": "PC",
+        "tracking_id": "3b8ObxijRSav833dH_JF-w",
+        "public_display_name": "Parvathy C."
+      },
+      "response": null,
+      "content_html": "<p>Excellent class!</p>",
+      "created_formatted_with_time_since": "4 months ago"
+    },
+    {
+      "_class": "course_review",
+      "id": 51578136,
+      "content": "Well explained and thought through.  Examples work well, but I am finding it is taking a while before some of the key topics I am interested in.",
+      "rating": 3.0,
+      "created": "2020-04-18T07:39:54-07:00",
+      "modified": "2020-05-04T08:53:06-07:00",
+      "user_modified": "2020-05-04T08:53:06-07:00",
+      "user": {
+        "_class": "user",
+        "title": "Julian Holliday",
+        "name": "Julian",
+        "display_name": "Julian Holliday",
+        "image_50x50": "https://img-c.udemycdn.com/user/50x50/anonymous_3.png",
+        "initials": "JH",
+        "tracking_id": "_xERIW1BSkWtwxZhmk-7SQ",
+        "public_display_name": "Julian H."
+      },
+      "response": null,
+      "content_html": "<p>Well explained and thought through.  Examples work well, but I am finding it is taking a while before some of the key topics I am interested in.</p>",
+      "created_formatted_with_time_since": "2 years ago"
+    },
+    {
+      "_class": "course_review",
+      "id": 22159714,
+      "content": "The only thing I didn't like was the way you change screens. It was way too often - hurts the eyes.\n\nOther than that it was quite enjoyable.",
+      "rating": 4.0,
+      "created": "2018-10-21T18:59:11-07:00",
+      "modified": "2018-12-05T21:54:53-08:00",
+      "user_modified": "2018-12-05T21:54:53-08:00",
+      "user": {
+        "_class": "user",
+        "title": "Larry",
+        "name": "Larry",
+        "display_name": "Larry",
+        "image_50x50": "https://img-c.udemycdn.com/user/50x50/anonymous_3.png",
+        "initials": "L",
+        "tracking_id": "dKqhKx_oSx2dubn1QO7CWw",
+        "public_display_name": "Larry"
+      },
+      "response": null,
+      "content_html": "<p>The only thing I didn't like was the way you change screens. It was way too often - hurts the eyes.</p>\n\n<p>Other than that it was quite enjoyable.</p>",
+      "created_formatted_with_time_since": "3 years ago"
+    },
+    {
+      "_class": "course_review",
+      "id": 1026294,
+      "content": "I am presently at 38% and am impressed with the delivery and quantity of information presented. So far I am very content with the course.",
+      "rating": 5.0,
+      "created": "2016-02-07T13:46:55-08:00",
+      "modified": "2016-06-27T20:43:36-07:00",
+      "user_modified": "2016-06-27T20:43:36-07:00",
+      "user": {
+        "_class": "user",
+        "title": "Peter Johnston",
+        "name": "Peter",
+        "display_name": "Peter Johnston",
+        "image_50x50": "https://img-c.udemycdn.com/user/50x50/19369504_0eb2.jpg",
+        "initials": "PJ",
+        "tracking_id": "ekKhzoGpS0mH8BmLoPoWTg",
+        "public_display_name": "Peter J."
+      },
+      "response": null,
+      "content_html": "<p>I am presently at 38% and am impressed with the delivery and quantity of information presented. So far I am very content with the course.</p>",
+      "created_formatted_with_time_since": "6 years ago"
+    },
+    {
+      "_class": "course_review",
+      "id": 27289,
+      "content": "This is a fantastic intro to the advanced operations in Excel 2013.\nThank you for publishing this course.",
+      "rating": 5.0,
+      "created": "2013-06-19T03:43:59-07:00",
+      "modified": "2013-06-19T10:43:59-07:00",
+      "user_modified": "2013-06-19T10:43:59-07:00",
+      "user": {
+        "_class": "user",
+        "title": "Theresa Wright",
+        "name": "Theresa",
+        "display_name": "Theresa Wright",
+        "image_50x50": "https://img-c.udemycdn.com/user/50x50/678265_1b64_2.jpg",
+        "initials": "TW",
+        "tracking_id": "WFtrYW0FSWSakQfEH5IRxw",
+        "public_display_name": "Theresa W."
+      },
+      "response": null,
+      "content_html": "<p>This is a fantastic intro to the advanced operations in Excel 2013.<br>Thank you for publishing this course.</p>",
+      "created_formatted_with_time_since": "9 years ago"
+    }
+  ]
+}

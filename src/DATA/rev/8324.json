@@ -1,0 +1,289 @@
+{
+    "count": 163,
+    "next": "https://www.udemy.com/api-2.0/courses/8324/reviews/?courseId=8324&fields%5Bcourse_review%5D=%40default%2Cresponse%2Ccontent_html%2Ccreated_formatted_with_time_since&fields%5Bcourse_review_response%5D=%40min%2Cuser%2Ccontent_html%2Ccreated_formatted_with_time_since&fields%5Buser%5D=%40min%2Cimage_50x50%2Cinitials%2Cpublic_display_name%2Ctracking_id&is_text_review=1&ordering=course_review_score__rank%2C-created&page=2",
+    "previous": null,
+    "results": [
+        {
+            "_class": "course_review",
+            "id": 122036112,
+            "content": "Really like the energy of the instructor and his ability to explain things. Enjoyed the tutorials and gained a lot of knowledge. Many thanks! Wish there were more examples but its enough.",
+            "rating": 4.0,
+            "created": "2022-08-25T07:19:42-07:00",
+            "modified": "2022-08-26T16:09:25-07:00",
+            "user_modified": "2022-08-25T07:20:46-07:00",
+            "user": {
+                "_class": "user",
+                "title": "Alison Luk",
+                "name": "Alison",
+                "display_name": "Alison Luk",
+                "image_50x50": "https://img-c.udemycdn.com/user/50x50/anonymous_3.png",
+                "initials": "AL",
+                "tracking_id": "NNHYGy1QQiyuwI0CIEi2gg",
+                "public_display_name": "Alison L."
+            },
+            "response": null,
+            "content_html": "<p>Really like the energy of the instructor and his ability to explain things. Enjoyed the tutorials and gained a lot of knowledge. Many thanks! Wish there were more examples but its enough.</p>",
+            "created_formatted_with_time_since": "a week ago"
+        },
+        {
+            "_class": "course_review",
+            "id": 121584392,
+            "content": "it's amazing, very informative and good that they have given sample examples and lecture pdf Thanks overall its amazing",
+            "rating": 5.0,
+            "created": "2022-08-19T12:35:23-07:00",
+            "modified": "2022-08-21T16:12:01-07:00",
+            "user_modified": "2022-08-19T12:36:03-07:00",
+            "user": {
+                "_class": "user",
+                "title": "Tahseen Shaikh",
+                "name": "Tahseen",
+                "display_name": "Tahseen Shaikh",
+                "image_50x50": "https://img-c.udemycdn.com/user/50x50/anonymous_3.png",
+                "initials": "TS",
+                "tracking_id": "ybxa80gUT-qMpRAo2aKOVg",
+                "public_display_name": "Tahseen S."
+            },
+            "response": null,
+            "content_html": "<p>it's amazing, very informative and good that they have given sample examples and lecture pdf Thanks overall its amazing</p>",
+            "created_formatted_with_time_since": "2 weeks ago"
+        },
+        {
+            "_class": "course_review",
+            "id": 120469810,
+            "content": "Its a pretty nice course for beginners. Understood the concepts clearly. This will definitely help me in going through more complex problems in javascript.",
+            "rating": 4.0,
+            "created": "2022-08-04T21:41:51-07:00",
+            "modified": "2022-08-05T16:09:41-07:00",
+            "user_modified": "2022-08-04T21:43:05-07:00",
+            "user": {
+                "_class": "user",
+                "title": "Naukhez Zaman",
+                "name": "Naukhez",
+                "display_name": "Naukhez Zaman",
+                "image_50x50": "https://img-c.udemycdn.com/user/50x50/anonymous_3.png",
+                "initials": "NZ",
+                "tracking_id": "SrffVX90QPu7z3gUgU233Q",
+                "public_display_name": "Naukhez Z."
+            },
+            "response": null,
+            "content_html": "<p>Its a pretty nice course for beginners. Understood the concepts clearly. This will definitely help me in going through more complex problems in javascript.</p>",
+            "created_formatted_with_time_since": "4 weeks ago"
+        },
+        {
+            "_class": "course_review",
+            "id": 119658618,
+            "content": "Not able to complete the course as page gets unresponsive at section 5 coding exercise 4.",
+            "rating": 1.0,
+            "created": "2022-07-26T06:09:04-07:00",
+            "modified": "2022-07-27T16:19:28-07:00",
+            "user_modified": "2022-07-26T06:32:37-07:00",
+            "user": {
+                "_class": "user",
+                "title": "Mayur Vashishtha",
+                "name": "Mayur",
+                "display_name": "Mayur Vashishtha",
+                "image_50x50": "https://img-c.udemycdn.com/user/50x50/anonymous_3.png",
+                "initials": "MV",
+                "tracking_id": "wZR53vCUR02intmYZ9eirw",
+                "public_display_name": "Mayur V."
+            },
+            "response": null,
+            "content_html": "<p>Not able to complete the course as page gets unresponsive at section 5 coding exercise 4.</p>",
+            "created_formatted_with_time_since": "a month ago"
+        },
+        {
+            "_class": "course_review",
+            "id": 119531952,
+            "content": "It was very good and useful one to learn a lot about javascript",
+            "rating": 5.0,
+            "created": "2022-07-24T22:51:44-07:00",
+            "modified": "2022-07-26T16:26:01-07:00",
+            "user_modified": "2022-07-24T22:52:10-07:00",
+            "user": {
+                "_class": "user",
+                "title": "",
+                "name": "",
+                "display_name": "Deepa Ashwin",
+                "image_50x50": "https://img-c.udemycdn.com/user/50x50/anonymous_3.png",
+                "initials": "",
+                "tracking_id": "U2Nkj8uKR7GtoAlZKwITrg",
+                "public_display_name": "Udemy User"
+            },
+            "response": null,
+            "content_html": "<p>It was very good and useful one to learn a lot about javascript</p>",
+            "created_formatted_with_time_since": "a month ago"
+        },
+        {
+            "_class": "course_review",
+            "id": 116727584,
+            "content": "it's been going on well. Finding some tasks difficult but I'll keep trying. Some lectures are not available on my device. Plz check it out for me. And unfortunately I don't have a system to code with so I use my phone, a book and biro for the coding class. Thanks",
+            "rating": 4.0,
+            "created": "2022-06-19T02:55:45-07:00",
+            "modified": "2022-06-21T16:05:03-07:00",
+            "user_modified": "2022-06-20T16:07:08-07:00",
+            "user": {
+                "_class": "user",
+                "title": "Divine Nwabuwe",
+                "name": "Divine",
+                "display_name": "Divine Nwabuwe",
+                "image_50x50": "https://img-c.udemycdn.com/user/50x50/anonymous_3.png",
+                "initials": "DN",
+                "tracking_id": "hSO2Da_gSLuYWtWd9Iz1Hw",
+                "public_display_name": "Divine N."
+            },
+            "response": null,
+            "content_html": "<p>it's been going on well. Finding some tasks difficult but I'll keep trying. Some lectures are not available on my device. Plz check it out for me. And unfortunately I don't have a system to code with so I use my phone, a book and biro for the coding class. Thanks</p>",
+            "created_formatted_with_time_since": "2 months ago"
+        },
+        {
+            "_class": "course_review",
+            "id": 120355466,
+            "content": "Yes, I am taking AP CSA this year, so it was good for preparation.",
+            "rating": 4.0,
+            "created": "2022-08-03T13:08:30-07:00",
+            "modified": "2022-08-05T16:08:06-07:00",
+            "user_modified": "2022-08-03T13:08:57-07:00",
+            "user": {
+                "_class": "user",
+                "title": "Vishva Arasan",
+                "name": "Vishva",
+                "display_name": "Vishva Arasan",
+                "image_50x50": "https://img-c.udemycdn.com/user/50x50/anonymous_3.png",
+                "initials": "VA",
+                "tracking_id": "ZaHM-ZewSmmK9-o_4pScSQ",
+                "public_display_name": "Vishva A."
+            },
+            "response": null,
+            "content_html": "<p>Yes, I am taking AP CSA this year, so it was good for preparation.</p>",
+            "created_formatted_with_time_since": "a month ago"
+        },
+        {
+            "_class": "course_review",
+            "id": 115924500,
+            "content": "That was exactly what I needed; a quick intro to the concept of JS in order to get a good feeling on how it works.",
+            "rating": 4.5,
+            "created": "2022-06-08T04:53:08-07:00",
+            "modified": "2022-06-09T16:07:57-07:00",
+            "user_modified": "2022-06-08T04:54:34-07:00",
+            "user": {
+                "_class": "user",
+                "title": "Kristian Buesch",
+                "name": "Kristian",
+                "display_name": "Kristian Buesch",
+                "image_50x50": "https://img-c.udemycdn.com/user/50x50/anonymous_3.png",
+                "initials": "KB",
+                "tracking_id": "WAa5qqFRT7uGcV3x5wxk6g",
+                "public_display_name": "Kristian B."
+            },
+            "response": null,
+            "content_html": "<p>That was exactly what I needed; a quick intro to the concept of JS in order to get a good feeling on how it works.</p>",
+            "created_formatted_with_time_since": "2 months ago"
+        },
+        {
+            "_class": "course_review",
+            "id": 121937354,
+            "content": "Very clear and easy to understand",
+            "rating": 5.0,
+            "created": "2022-08-24T06:51:42-07:00",
+            "modified": "2022-08-25T16:10:31-07:00",
+            "user_modified": "2022-08-24T06:52:56-07:00",
+            "user": {
+                "_class": "user",
+                "title": "",
+                "name": "",
+                "display_name": "Fatou Secka",
+                "image_50x50": "https://img-c.udemycdn.com/user/50x50/anonymous_3.png",
+                "initials": "",
+                "tracking_id": "YkY0Q7GeTeyr5o9gRk2jCQ",
+                "public_display_name": "Udemy User"
+            },
+            "response": null,
+            "content_html": "<p>Very clear and easy to understand</p>",
+            "created_formatted_with_time_since": "a week ago"
+        },
+        {
+            "_class": "course_review",
+            "id": 114992174,
+            "content": "Il corso è veramente ben fatto! La spiegazione è chiara e comprensibile!\nHo potuto seguirlo con molto interesse. Grazie!",
+            "rating": 5.0,
+            "created": "2022-05-26T21:14:30-07:00",
+            "modified": "2022-05-27T16:11:22-07:00",
+            "user_modified": "2022-05-26T21:16:03-07:00",
+            "user": {
+                "_class": "user",
+                "title": "Guido Bussani",
+                "name": "Guido",
+                "display_name": "Guido Bussani",
+                "image_50x50": "https://img-c.udemycdn.com/user/50x50/anonymous_3.png",
+                "initials": "GB",
+                "tracking_id": "d7Mb-pECS1ezoaUstuzQsw",
+                "public_display_name": "Guido B."
+            },
+            "response": null,
+            "content_html": "<p>Il corso è veramente ben fatto! La spiegazione è chiara e comprensibile!<br>Ho potuto seguirlo con molto interesse. Grazie!</p>",
+            "created_formatted_with_time_since": "3 months ago"
+        },
+        {
+            "_class": "course_review",
+            "id": 110768630,
+            "content": "It was a good match. I was equipped with the fundamentals of javascript as well as assignments that require logical thinking.",
+            "rating": 4.5,
+            "created": "2022-03-30T07:08:42-07:00",
+            "modified": "2022-04-01T01:17:22-07:00",
+            "user_modified": "2022-03-30T07:09:51-07:00",
+            "user": {
+                "_class": "user",
+                "title": "Akinola Matthew tolulope",
+                "name": "Akinola Matthew",
+                "display_name": "Akinola Matthew tolulope",
+                "image_50x50": "https://img-c.udemycdn.com/user/50x50/anonymous_3.png",
+                "initials": "AT",
+                "tracking_id": "Xua1wWVfTt68t5AXORjInQ",
+                "public_display_name": "Akinola Matthew T."
+            },
+            "response": {
+                "_class": "course_review_response",
+                "id": 9382902,
+                "content": "Thanks, Akinola, for enrolling in the Javascript for Beginners Course.  Thank you very much for taking the time to do the review for this course!",
+                "created": "2022-04-07T10:02:57-07:00",
+                "modified": "2022-04-07T10:02:57-07:00",
+                "user": {
+                    "_class": "user",
+                    "title": "Tech Learning Network",
+                    "name": "Tech Learning",
+                    "display_name": "Tech Learning Network",
+                    "image_50x50": "https://img-c.udemycdn.com/user/50x50/11439_12bd_13.jpg",
+                    "initials": "TN",
+                    "tracking_id": "gEFjwszfTLiwchIqUmmykQ",
+                    "public_display_name": "Tech Learning N."
+                },
+                "content_html": "<p>Thanks, Akinola, for enrolling in the Javascript for Beginners Course.  Thank you very much for taking the time to do the review for this course!</p>",
+                "created_formatted_with_time_since": "4 months ago"
+            },
+            "content_html": "<p>It was a good match. I was equipped with the fundamentals of javascript as well as assignments that require logical thinking.</p>",
+            "created_formatted_with_time_since": "5 months ago"
+        },
+        {
+            "_class": "course_review",
+            "id": 119526788,
+            "content": "Good introduction from basics. A newer version of the course would be much better.",
+            "rating": 4.5,
+            "created": "2022-07-24T20:54:06-07:00",
+            "modified": "2022-07-29T11:56:00-07:00",
+            "user_modified": "2022-07-29T11:56:00-07:00",
+            "user": {
+                "_class": "user",
+                "title": "Rajesh Kumar",
+                "name": "Rajesh",
+                "display_name": "Rajesh Kumar",
+                "image_50x50": "https://img-c.udemycdn.com/user/50x50/anonymous_3.png",
+                "initials": "RK",
+                "tracking_id": "zZlHrbRrSuuQmfuR7f2kvQ",
+                "public_display_name": "Rajesh K."
+            },
+            "response": null,
+            "content_html": "<p>Good introduction from basics. A newer version of the course would be much better.</p>",
+            "created_formatted_with_time_since": "a month ago"
+        }
+    ]
+}

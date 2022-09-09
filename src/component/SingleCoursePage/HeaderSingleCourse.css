@@ -1,0 +1,122 @@
+.HeaderSingleCourse {
+  color: white;
+  /* border: 2px solid black; */
+  width: 700px;
+  padding: 20px 0;
+  /* background-color: #1c1d1f; */
+  /* height:300px */
+}
+
+.HeaderSingleCourse .image {
+  position: relative;
+  cursor: pointer;
+  width: 100%;
+  height: 191px;
+  border: 1px solid white;
+}
+.HeaderSingleCourse .image img {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+.HeaderSingleCourse .image .image-cover {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background: rgb(0, 0, 0);
+  background: linear-gradient(
+    0deg,
+    rgba(0, 0, 0, 0.87718837535014) 0%,
+    rgba(255, 255, 255, 0) 100%
+  );
+  z-index: 3;
+}
+
+.HeaderSingleCourse .image .play-icon {
+  position: absolute;
+  width: 70px;
+  height: 70px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 4;
+  border-radius: 100px;
+  /* background-color: black; */
+}
+.HeaderSingleCourse .image .play-icon svg {
+  /* font-size: 70px; */
+  color: white;
+  width: 100%;
+  height: 100%;
+}
+.HeaderSingleCourse > div {
+  margin-top: 15px;
+}
+.title {
+  font-weight: bolder;
+}
+.description {
+  font-size: 19px;
+}
+.bestSeller {
+  color: rgb(34, 34, 34);
+  background-color: #f3ca8c;
+  padding: 2px;
+  font-weight: bold;
+  font-size: 13px;
+}
+.info-rating {
+  display: flex;
+  /* flex-wrap: wrap; */
+}
+.rating {
+  display: flex;
+  align-items: center;
+  font-weight: bold;
+  font-size: 14px;
+  color: #f3ca8c;
+}
+.rating > div {
+  padding: 0 5px;
+}
+.rating-stars svg {
+  font-size: 15px;
+}
+.num_students_rating {
+  color: #cec0fc;
+  padding: 0 5px;
+  text-decoration: underline;
+}
+.created_by_info {
+  color: #cec0fc;
+  text-decoration: underline;
+}
+
+@media only screen and (max-width: 500px) {
+  .HeaderSingleCourse {
+    background-color: #1c1d1f;
+  }
+  .info-rating {
+    display: block;
+  }
+  .info-rating > div {
+    padding-left: 0;
+  }
+  .bestSeller {
+    display: inline;
+  }
+}
+
+@media only screen and (min-width: 1100px) {
+  .HeaderSingleCourse .image {
+    display: none;
+  }
+}
+
+@media only screen and (max-width:1100px) {
+  .HeaderSingleCourse {
+    width:600px;
+  }
+}

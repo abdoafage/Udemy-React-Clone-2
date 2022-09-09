@@ -1,0 +1,51 @@
+.Instructors{
+
+}
+.Instructors .title{
+    font-size: 24px;
+}
+.single-instructor{
+    padding-bottom:30px;
+}
+.single-instructor-title{
+    color:blueviolet !important;
+    text-decoration: underline;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 20px;
+}
+.single-instructor-jop{
+    color:gray;
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.single-instructor-info{
+    display: flex;
+    margin: 15px 0;
+}
+.single-instructor-info .img img{
+    width:112px;
+    height:112px;
+    border-radius: 50%;
+}
+.single-instructor-info-rating{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-left: 20px;
+}
+
+.single-instructor-info-rating > div{
+    display: flex;
+}
+.single-instructor-info-rating > div > div:not(:first-child){
+    padding-left:15px; 
+    color:gray;
+    font-weight: 400;
+}
+.description-paragraph{
+    font-size: small;
+    font-weight: 500;
+    color:#1c1d1f;
+}

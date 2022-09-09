@@ -1,0 +1,121 @@
+.CoursesSection {
+  border: 1px solid black;
+}
+.coursesSection {
+  border: 10px solid red;
+  padding: 10px;
+}
+
+.lstOfCourses {
+  display: flex;
+  flex-wrap: wrap;
+  /* overflow: hidden; */
+  /* border: 1px solid black; */
+}
+
+.lstOfCourses .typeOfCorses {
+  padding: 10px;
+  font-family: sans-serif;
+  font-weight: bold;
+}
+.lstOfCourses .typeOfCorses {
+  color: gray;
+}
+.active {
+  color: black !important;
+}
+
+.showCourses {
+  /* display: flex; */
+  /* overflow: hidden; */
+  padding: 10px;
+  border: 1px solid rgb(187, 187, 187);
+  font-family: sans-serif;
+}
+.hderOfCoursesSection {
+  width: 55%;
+  /* border: 1px solid black; */
+}
+.hderOfCoursesSection div {
+  padding: 10px;
+}
+.hderOfCoursesSection .title {
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.hderOfCoursesSection .details {
+  color: gray;
+}
+
+.btnExplore {
+  border: 1px solid black;
+  background-color: white;
+  color: black;
+
+  margin: 10px 0;
+  cursor: pointer;
+  font-weight: bold;
+  padding: 10px;
+}
+.lstGroupCourses {
+  /* border: 1px solid black; */
+  overflow: hidden;
+  position: relative;
+  height: 340px;
+}
+.groupCourses {
+  display: inline-flex;
+  position: absolute;
+}
+
+.sigleCourse {
+  width: 249px;
+  margin: 5px;
+  height: 100% !important;
+  /* border: 1px solid black; */
+}
+.sigleCourseImg img {
+  width: 100%;
+  border: 1px solid rgb(214, 214, 214);
+}
+
+.sigleCourseInfo > div {
+  padding:5px 0 0 0;
+  font-weight: bold;
+}
+/* .sigleCourseStars{
+    padding: -32px ;
+    margin: 0 !important;
+  } */
+.sigleCourseInfo .sigleCourseTitle {
+  padding: 10px 0 0 0;
+}
+
+.sigleCourseInfo .sigleCourseAuther {
+  font-size: 15px;
+  color: gray;
+  font-weight: 100;
+}
+.sigleCoursePrice{
+
+}
+.rightArrow i,
+.leftArrow i {
+  font-size: 30px;
+}
+.rightArrow,
+.leftArrow {
+  border-radius: 50px;
+  border: none;
+}
+.rightArrow {
+  position: absolute;
+  top: 50%;
+  right: 0;
+}
+.leftArrow {
+  position: absolute;
+  top: 50%;
+  left: 0;
+}

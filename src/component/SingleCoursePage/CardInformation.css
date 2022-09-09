@@ -1,0 +1,177 @@
+.CardInformation {
+  /* border: 2px solid black; */
+  width: 339px;
+  position:relative;
+  top: -300px;
+  /* top: 100px; */
+  z-index: 3;
+}
+.CardInformation-component {
+  background-color: rgb(255, 255, 255);
+  font-family: sans-serif;
+  box-shadow: 0 2px 4px rgb(0 0 0 / 8%), 0 4px 12px rgb(0 0 0 / 8%);
+  top: 0;
+  position: sticky;
+}
+
+.CardInformation .image {
+  position: relative;
+  cursor: pointer;
+  width: 100%;
+  height: 191px;
+  border: 1px solid white;
+}
+.CardInformation .image img {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+.CardInformation .image .image-cover {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background: rgb(0, 0, 0);
+  background: linear-gradient(
+    0deg,
+    rgba(0, 0, 0, 0.87718837535014) 0%,
+    rgba(255, 255, 255, 0) 100%
+  );
+  z-index: 3;
+}
+
+.CardInformation .image .play-icon {
+  position: absolute;
+  width: 70px;
+  height: 70px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 4;
+  border-radius: 100px;
+  /* background-color: black; */
+}
+.CardInformation .image .play-icon svg {
+  /* font-size: 70px; */
+  color: white;
+  width: 100%;
+  height: 100%;
+}
+.CardInformation-body {
+  padding: 20px;
+}
+
+.CardInformation-body-price {
+  font-size: 2.2rem;
+  letter-spacing: -0.02rem;
+  font-weight: 700;
+}
+.CardInformation-body-add-like {
+  display: flex;
+}
+.CardInformation-body-like {
+  /* width:50px; */
+}
+.CardInformation-body-like button {
+  /* width:24px; */
+  /* height:28px; */
+}
+.CardInformation-body-like button svg {
+}
+.CardInformation-body-add,
+.CardInformation-body-like,
+.CardInformation-body-buynow {
+  border: 1px solid black;
+  text-align: center;
+  margin: 5px;
+}
+.CardInformation-body-add button,
+.CardInformation-body-like button,
+.CardInformation-body-buynow button {
+  background-color: transparent;
+  width: 100%;
+  height: 100%;
+  padding: 10px;
+  border: none;
+  font-weight: bold;
+}
+
+.CardInformation-body-buynow {
+  display: block;
+}
+.CardInformation-body-add {
+  flex-grow: 1;
+  border: none;
+  /* padding:2px 0; */
+}
+.CardInformation-body-add button {
+  background-color: #a435f0;
+  color: white;
+}
+
+.CardInformation-body-back-guarantee {
+  text-align: center;
+  font-size: 13px;
+  color: #1c1d1f;
+  font-weight: 400;
+}
+.course-incude-title {
+  font-weight: 700;
+  margin-top: 10px;
+}
+.course-incude-lst ul li {
+  display: flex;
+  align-items: center;
+  padding-top: 5px;
+}
+.course-incude-lst ul li,
+.course-incude-lst ul li div svg {
+  font-size: 15px;
+  color: #1c1d1f;
+}
+.course-incude-lst ul li > span {
+  margin-left: 20px;
+  color: #1c1d1f;
+}
+
+.CardInformation-body-share-gift-apply ul {
+  display: flex;
+  justify-content: space-between;
+}
+
+.CardInformation-body-share-gift-apply ul li {
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.CardInformation-training {
+  width: 340px;
+  padding: 20px;
+}
+.CardInformation-training-title {
+  font-weight: bold;
+  font-size: larger;
+}
+.CardInformation-training-content {
+  color: #1c1d1f;
+  font-size: 15px;
+  line-height: normal;
+  margin-top: 10px;
+}
+
+.CardInformation-training-tryUdemy {
+  width: 100%;
+  border: 1px solid black;
+  background-color: transparent;
+  padding: 10px;
+  margin-top: 20px;
+  font-weight: bold;
+  text-align: center;
+}
+
+@media only screen and (max-width: 1100px) {
+  .CardInformation {
+    display: none;
+  }
+}

@@ -1,0 +1,56 @@
+.SearchBarReviews{
+    width:100%;
+}
+.SearchBarReviews-form{
+    display: flex;
+    flex-wrap: wrap;
+}
+.SearchBarReviews-form-input{
+    display: flex;
+    flex-grow: 1;
+    border: 1px solid black;
+}
+.SearchBarReviews-form-input input{
+    flex-grow: 1;
+    padding:10px;
+    outline: none;
+    border: none;
+}
+.SearchBarReviews-form-input .SearchBarReviews-form-iconSearch{
+    background-color: black;
+    width: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.SearchBarReviews-form-input .SearchBarReviews-form-iconSearch svg{
+    color:white;
+    font-size: 30px;
+}
+.SearchBarReviews-form-search-rating{
+    /* flex-grow: 1; */
+    
+    margin-left: 20px;
+}
+.SearchBarReviews-form-search-rating-select{
+    width:180px;
+    height:50px;
+    padding:10px;
+    outline: none;
+    cursor: pointer;
+}
+.SearchBarReviews-form-search-rating-select:hover,
+.SearchBarReviews-form-search-rating-select:focus{
+    background-color: #f5f5f5;
+}
+
+@media only screen and (max-width:500px) {
+    .SearchBarReviews-form-search-rating-select{
+        width:100%;
+        /* flex-grow: 1; */
+    }
+    .SearchBarReviews-form-search-rating{
+        margin-left:0 ;
+        width:100%;
+    }
+}

@@ -1,1 +1,11 @@
-# Udemy-React-Clone-2
+## To Run App :
+first cmd 
+```
+cd src/DATA
+json-server --watch DATA.json
+```
+
+second cmd
+```
+npm start
+```

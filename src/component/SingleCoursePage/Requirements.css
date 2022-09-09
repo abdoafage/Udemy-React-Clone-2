@@ -1,0 +1,20 @@
+.Requirements{
+
+}
+.Requirements .title{
+    padding:20px 0;
+    font-size: 24px;
+}
+.lst-requirements{
+    padding-left: 0;
+}
+.lst-requirements-item{
+   display: flex;
+   align-items: center;
+   padding:2px 0;
+   font-size: 14px;
+}
+.lst-requirements-item-info{
+    padding-left:15px;
+    color:#1c1d1f;
+}
