@@ -1,4 +1,4 @@
-.PageComponent{
+.ContentOfPage{
     /* border: 1px solid rgba(0, 0, 0, 0.363); */
     width:700px;
     /* width:100%; */
@@ -13,7 +13,7 @@
 
 
 @media only screen and (max-width:1100px) {
-    .PageComponent{
+    .ContentOfPage{
       width:600px;
     }
   }

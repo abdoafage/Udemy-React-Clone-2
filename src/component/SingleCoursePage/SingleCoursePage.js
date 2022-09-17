@@ -4,13 +4,14 @@ import React, { useContext, useEffect, useRef, useState } from "react";
 // import HeaderSingleCourse from "./HeaderSingleCourse";
 import "./SingleCoursePage.css";
 // import { data } from "../../data";
-import PageComponent from "./PageComponent";
+// import PageComponent from "./ContentOfPage";
 import CardInformation from "./CardInformation";
 import { useParams } from "react-router-dom";
 import { DataCoursesInfo, DataReviewContent } from "./../../DataLayerProvider";
 import Loader from "../Loader";
 import HeaderSingleCourse from "./HeaderSingleCourse";
 import { Star } from "@mui/icons-material";
+import ContentOfPage from "./ContentOfPage";
 
 function SingleCoursePage() {
   const DATA_CoursesInfo = useContext(DataCoursesInfo);
@@ -69,7 +70,7 @@ function SingleCoursePage() {
       </div>
       <div className="SingleCoursePage-body">
         {courseSelectInfo && courseSelect_review_content && (
-          <PageComponent
+          <ContentOfPage
             courseSelect={courseSelectInfo[0]}
             review_content={courseSelect_review_content}
           />
