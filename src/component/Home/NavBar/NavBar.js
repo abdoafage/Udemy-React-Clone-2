@@ -38,7 +38,7 @@ function NavBar() {
               type="text"
               name="search-input"
               className="search-input"
-              placeholder="seach for anything"
+              placeholder="seach for category"
             />
           </form>
         </li>

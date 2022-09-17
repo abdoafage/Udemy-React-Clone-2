@@ -63,10 +63,12 @@
   overflow: hidden;
   position: relative;
   height: 340px;
+  transition: .2 all ease-in-out;
 }
 .groupCourses {
   display: inline-flex;
   position: absolute;
+  transition: .2 all ease-in-out;
 }
 
 .sigleCourse {
