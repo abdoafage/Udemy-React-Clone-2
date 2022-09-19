@@ -1,15 +1,21 @@
 import React, { useRef } from "react";
-import { Link, useSearchParams } from "react-router-dom";
-import "./NavBar.css"
-import svgLogo from "./logo-udemy.svg"
+import { Link, useSearchParams, useLocation,useNavigate } from "react-router-dom";
+import "./NavBar.css";
+import svgLogo from "./logo-udemy.svg";
 
 function NavBar() {
   const refSearchBar = useRef();
-  const [searchBarParams,setSearchBarParams] = useSearchParams();
-  const searchSubmit = (event) =>{
+  const [searchBarParams, setSearchBarParams] = useSearchParams();
+  let navigate = useNavigate();
+  const searchSubmit = (event) => {
     event.preventDefault();
-    setSearchBarParams({"search":refSearchBar.current.value});
-  }
+
+    setSearchBarParams({ search: refSearchBar.current.value });
+    //console.log(loc);
+  };
+  // const HandleInputSearchBar = () =>{
+
+  // }
   return (
     <nav className="nav-bar">
       <ul>
@@ -20,17 +26,13 @@ function NavBar() {
         </li>
         <li className="nav-lst logo">
           <Link to="/">
-            <img
-              className="udemy-logo"
-              src={svgLogo}
-              alt="udemy logo"
-            />
+            <img className="udemy-logo" src={svgLogo} alt="udemy logo" />
           </Link>
         </li>
         <li className="nav-lst category">Categories</li>
         <li className="nav-lst search-bar">
           <form className="search-bar-form" onSubmit={searchSubmit}>
-            <button type="submit" className="search-icon" >
+            <button type="submit" className="search-icon" onClick={()=>{navigate(`/`)}}>
               <i className="fa-solid fa-magnifying-glass"></i>
             </button>
             <input

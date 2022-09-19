@@ -19,10 +19,10 @@ function SingleCoursePage() {
 
   const [courseSelectInfo, setCourseSelectInfo] = useState(null);
   const [courseSelect_review_content, setCourseSelect_review_content] =
-    useState();
-  const { nameOfCourse, id } = useParams();
-  // console.log(id, nameOfCourse);
-  console.log(DATA_CoursesInfo);
+    useState(null);
+  const { id } = useParams();
+  // console.log(id);
+  //console.log(DATA_CoursesInfo);
   // console.log(_DataReviewContent);
   // console.log(courseSelectInfo);
   // console.log(courseSelect_review_content);
@@ -41,7 +41,7 @@ function SingleCoursePage() {
       setCourseSelectInfo(a);
       setCourseSelect_review_content(_DataReviewContent[id]);
     }
-  }, [DATA_CoursesInfo, _DataReviewContent, id, nameOfCourse]);
+  }, [DATA_CoursesInfo, _DataReviewContent, id]);
 
   if (!courseSelectInfo || !DATA_CoursesInfo) return <Loader />;
   return (
