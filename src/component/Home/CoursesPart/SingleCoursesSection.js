@@ -7,9 +7,9 @@ function SingleCoursesSection(props) {
   // const img1 = "./image/python1.jpg";
   const dataCategory = props.data;
   const groupCoursesRef = useRef();
-  useEffect(()=>{
-    groupCoursesRef.current.style.left="0";
-  },[dataCategory])
+  useEffect(() => {
+    groupCoursesRef.current.style.left = "0";
+  }, [dataCategory]);
   const HandleRightShift = (e) => {
     const barCourses = groupCoursesRef.current;
 
@@ -41,9 +41,7 @@ function SingleCoursesSection(props) {
             {dataCategory.courses.map((course, index) => (
               <Link
                 key={index}
-                to={`course/${dataCategory.nameCategory.split(" ").join("")}/${
-                  course.id
-                }`}
+                to={`course/${course.id}`}
                 style={{ color: "black" }}
               >
                 <SingleCourse {...course} />

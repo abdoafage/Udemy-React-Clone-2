@@ -22,7 +22,7 @@ function SingleCoursePage() {
     useState();
   const { nameOfCourse, id } = useParams();
   // console.log(id, nameOfCourse);
-  // console.log(DATA_CoursesInfo);
+  console.log(DATA_CoursesInfo);
   // console.log(_DataReviewContent);
   // console.log(courseSelectInfo);
   // console.log(courseSelect_review_content);
@@ -30,9 +30,14 @@ function SingleCoursePage() {
 
   useEffect(() => {
     if (DATA_CoursesInfo && _DataReviewContent) {
-      const a = DATA_CoursesInfo[nameOfCourse].courses.filter(
-        (e) => e.id == id
-      );
+      let a = null;
+      for (let nameOfCourse in DATA_CoursesInfo) {
+        console.log(nameOfCourse);
+        DATA_CoursesInfo[nameOfCourse].courses.map((e) => {
+          e.id == id ? (a = e) : (a = a);
+        });
+      }
+      console.log(a);
       setCourseSelectInfo(a);
       setCourseSelect_review_content(_DataReviewContent[id]);
     }
@@ -43,11 +48,11 @@ function SingleCoursePage() {
     <div className="SingleCoursePage">
       <div className="sub-SingleCoursePage">
         <div className="sub-SingleCoursePage-title">
-          {courseSelectInfo[0].title}
+          {courseSelectInfo.title}
         </div>
         <div className="sub-SingleCoursePage-info">
           <div className="sub-SingleCoursePage-rate">
-            {courseSelectInfo[0].rating.toFixed(1)} <Star />
+            {courseSelectInfo.rating.toFixed(1)} <Star />
           </div>
           <div className="sub-SingleCoursePage-num_students_rating">{`(18,074 ratings)`}</div>
           <div className="sub-SingleCoursePage-num_students">{`191,126 students`}</div>
@@ -55,28 +60,28 @@ function SingleCoursePage() {
       </div>
       <div className="baner_show">
         <HeaderSingleCourse
-          title={courseSelectInfo[0].title}
-          description={courseSelectInfo[0].headline}
+          title={courseSelectInfo.title}
+          description={courseSelectInfo.headline}
           Bestseller={true}
-          rating_num={courseSelectInfo[0].rating}
-          rating_stars={courseSelectInfo[0].stars}
+          rating_num={courseSelectInfo.rating}
+          rating_stars={courseSelectInfo.stars}
           num_students_rating={"18,074"}
           num_students={"191,126"}
-          created_by={courseSelectInfo[0].instructors[0].name}
+          created_by={courseSelectInfo.instructors[0].name}
           last_update={"9/2019"}
-          image={courseSelectInfo[0].image}
+          image={courseSelectInfo.image}
         />
         <div className="blackSpace"></div>
       </div>
       <div className="SingleCoursePage-body">
         {courseSelectInfo && courseSelect_review_content && (
           <ContentOfPage
-            courseSelect={courseSelectInfo[0]}
+            courseSelect={courseSelectInfo}
             review_content={courseSelect_review_content}
           />
         )}
         {courseSelectInfo && courseSelect_review_content && (
-          <CardInformation courseSelect={courseSelectInfo[0]} />
+          <CardInformation courseSelect={courseSelectInfo} />
         )}
       </div>
     </div>

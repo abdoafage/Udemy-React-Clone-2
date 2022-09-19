@@ -20,12 +20,8 @@ function App() {
         <Route exact path="/" element={<Home />}>
           <Route path="/:nameOfCourse" element={<CoursesSection />} />
         </Route>
-        <Route
-          exact
-          path="/course/:nameOfCourse/:id"
-          element={<SingleCoursePage />}
-        />
-        <Route path="*" element={<div> not found</div>}/>
+        <Route exact path="/course/:id" element={<SingleCoursePage />} />
+        <Route path="*" element={<div> not found</div>} />
       </Routes>
       <Footer />
     </div>
